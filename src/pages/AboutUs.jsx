@@ -75,7 +75,9 @@ export default function AboutUs() {
           <div className={container}>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
               <div>
-                <h1 className="text-4xl font-bold">About Wellcare Aged Care</h1>
+                <h1 className="text-4xl font-bold">About</h1>
+                <h1 className="text-3xl font-medium">WELLCARE AGED CARE</h1>
+                <h1 className="text-3xl font-medium">SUPPORT AND FOUNDATION</h1>
                 <p className="mt-4 text-gray-300 max-w-2xl">
                   Founded to bring professional, compassionate in-home care to
                   families. We combine clinical excellence with respect for
@@ -199,7 +201,9 @@ export default function AboutUs() {
             variants={stagger}
           >
             <motion.div variants={heroVariants}>
-              <h1 className="text-4xl font-bold">About Wellcare Aged Care</h1>
+              <h1 className="text-4xl font-bold">About</h1>
+              <h1 className="text-3xl font-medium">WELLCARE AGED CARE</h1>
+              <h1 className="text-3xl font-medium">SUPPORT AND FOUNDATION</h1>
               <p className="mt-4 text-gray-300 max-w-2xl">
                 Founded to bring professional, compassionate in-home care to
                 families. We combine clinical excellence with respect for
